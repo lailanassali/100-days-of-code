@@ -6,11 +6,6 @@
   src: url(./fonts/Grotesk-Medium.ttf);
 }
 
-* {
-  margin: 0;
-  padding: 0;
-}
-
 .wrapper {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
